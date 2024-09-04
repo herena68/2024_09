@@ -20,9 +20,9 @@
 1. jdk 8.X/ jdk 17 install
 
 2.  JAVA_HOME 설정,    path 설정, class path 
-JAVA_HOME=C:~~~jdk17
+    JAVA_HOME=C:~~~jdk17
     path=%JAVA_HOME%\bin;
-class path : .;~~~.jar
+    class path : .;~~~.jar
 
 3. eclipse 설치:  https://www.eclipse.org/downloads
 
