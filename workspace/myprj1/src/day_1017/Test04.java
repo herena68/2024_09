@@ -31,6 +31,9 @@ public class Test04 {
 			
 		}
 		
+		sc.close();
+		sc = null;
+
 		double sum = 0;
 		for(Employee e :employees) {
 			e.print();

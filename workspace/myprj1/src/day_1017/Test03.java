@@ -50,6 +50,9 @@ public class Test03 {
 		}
 		System.out.printf("기술부 :  %.1f %n",sum/count);
 
+		sc.close();
+		sc = null;
+
 	}
 }
 
