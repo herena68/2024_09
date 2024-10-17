@@ -13,8 +13,7 @@ public class Test04 {
 				+ "고길동 마케팅부 23\r\n"
 				+ "박길동 영업부 22\r\n"
 				+ "최길동 기술부 29\r\n"
-				+ "a길동 기술부 39\r\n"
-				+ "s길동 기술부 29\r\n"
+				+ "이길동 기술부 39\r\n"
 				+ "김길동 영업부 31";
 		
 		ArrayList<Employee> employees = new ArrayList<Employee>();
