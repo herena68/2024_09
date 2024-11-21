@@ -10,11 +10,12 @@ public class ServiceApp {
 		
 		Service service = null;
 		
-//		String msg = JOptionPane.showInputDialog("사용DB 선택  \n 1:Oracle,2:Mysql","1");
-	   
-		Scanner scanner = new Scanner(System.in);
-	    System.out.println("사용DB 선택  \n 1:Oracle,2:Mysql");
-		String msg = scanner.nextLine();
+		String msg = JOptionPane.showInputDialog("사용DB 선택  \n 1:Oracle,2:Mysql","1");
+	   //JOptionPane 에러가 발생시 => 프로젝트에 있는 module-info.java 파일 삭제한다.
+		
+//		Scanner scanner = new Scanner(System.in);
+//	    System.out.println("사용DB 선택  \n 1:Oracle,2:Mysql");
+//		String msg = scanner.nextLine();
 		
 		switch(msg) {
 		   case "1":
@@ -31,7 +32,7 @@ public class ServiceApp {
 		service.delete();
 		service.select();
 		//service.update();
-		scanner.close();
+//		scanner.close();
 	}
 
 }
