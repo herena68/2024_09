@@ -1,20 +1,12 @@
 # 2024_09
 
-##  ´Ù¿î·Îµå
-#### ¼³Ä¡ file download : <http://naver.me/x2jhvtyp><br>
-#### ±³Àç ¿¹Á¦ ¼Ò½º ´Ù¿î·Îµå : <https://www.hanbit.co.kr/support/supplement_survey.html?pcode=B1041700089><br>
-#### ±³Àç ¿¹Á¦ ¼Ò½º git : <https://github.com/cloudstudying-kr/><br>
-#### Âü°í : <https://www.w3schools.com/><br>
+##  ë‹¤ìš´ë¡œë“œ
+#### ì„¤ì¹˜ file download : <http://naver.me/x2jhvtyp><br>
+#### êµìž¬ ì˜ˆì œ ì†ŒìŠ¤ ë‹¤ìš´ë¡œë“œ : <https://www.hanbit.co.kr/support/supplement_survey.html?pcode=B1041700089><br>
+#### êµìž¬ ì˜ˆì œ ì†ŒìŠ¤ git : <https://github.com/cloudstudying-kr/><br>
+#### ì°¸ê³  : <https://www.w3schools.com/><br>
 #### API jdk 17  : <https://docs.oracle.com/en/java/javase/17/docs/api/><br>
 #### API jdk 1.8 : <https://docs.oracle.com/javase/8/docs/api/><br>
 
 #### <br>
 
-
-
-<br><br>
-## Å¬·¡½º´ÙÀÌ¾î±×·¥
-<img src="./Service1.png">
-<br><br>
-## ¼­ºñ½º·¹ÀÌ¾î±¸Ãà
-<img src="./2.png">
